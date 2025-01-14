@@ -11,7 +11,7 @@ selfbot_name = "Nuclear" # Tip: Don't use the "Selfbot" word into your selfbot n
 
 # en: Account Token.
 # fr: Token du compte.
-token = ""
+token = "OTYyNjEwNTM3MjA2Nzg0MDQw.GNu5bo.fR5IO_fc_i-LRoeSnV95nDcUEStO3d_HHWSb6M"
 
 # en: Commands prefix.
 # fr: Prefix des commandes.
@@ -88,7 +88,7 @@ activity_state = " "
 application_id = 1193291951290712154
 
 streaming_url = "https://twitch.tv/twitch"
-activity_button_one = "Nuclear !"
+activity_button_one = "big bllm!"
 activity_button_one_answer = "https://github.com/Sitois/Nuclear" # doesn't work for the moment
 activity_button_two = "Star it!"
 activity_button_two_answer = "https://github.com/Sitois/Nuclear" # doesn't work for the moment
